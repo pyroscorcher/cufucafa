@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className="text-xl font-semibold opacity-90">
-          Kopi Susu Gula Aren — Nikmati setiap Kamis!
+          Kopi Susu Gula Aren
         </p>
 
         <p className="text-3xl font-bold bg-white text-coffee px-6 py-2 rounded-full inline-block shadow-md">
