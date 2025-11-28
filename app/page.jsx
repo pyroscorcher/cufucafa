@@ -2,13 +2,13 @@ export default function Home() {
   return (
     <main className="flex flex-col items-center text-white pb-20">
       {/* Hero Section */}
-      <section className="w-full flex justify-center items-center bg-coffee pt-10">
-        <img
-          src="/hero.png"
-          alt="Cufucafa Coffee Poster"
-          className="w-full max-w-2xl rounded-lg shadow-xl"
-        />
-      </section>
+    <section className="w-full flex justify-center items-center bg-coffee pt-10 pb-6">
+      <img
+        src="/hero.png"
+        alt="Cufucafa Coffee Poster"
+        className="w-[50%] max-w-xl rounded-lg shadow-xl object-contain"
+      />
+    </section>
 
       {/* Promo Section */}
       <section className="max-w-3xl mt-10 px-6 text-center space-y-5">
